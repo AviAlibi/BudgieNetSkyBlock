@@ -1,4 +1,4 @@
-# Ranks
+# Bosses
 On BudgieNet Skyblock (BNSB) there are a multitude of bosses, and minibosses, to fight. These challenging opponents will grant special loot and items for the player that is far better then the vanilla minecraft gear. Below is a list of all bosses, their attacks, their drops, and their locations.
 
 Please note, RMD stands for Regular Mob Drops, for example the Grumble Bee found on the Nomad island, will still drop honeycombs when it dies, at the rate a normal Bee would.
@@ -27,4 +27,3 @@ Drops unnaccounted for Legend island:
 Fancy Rod
 Walking Cane
 ```
-Killerturtel96
