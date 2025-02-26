@@ -18,7 +18,8 @@ Please note, RMD stands for Regular Mob Drops, for example the Grumble Bee found
 | Veteran | Boss | Highland Hunter | Wandering Trader | Hunters Armour<br>Hunters Knife<br>Iron Ingots? |
 | Legend | Miniboss | Schorched Phantom | Phantom<br>Zombie | Schorched Armour<br>Phantom Membranes |
 | Legend | Miniboss | Dwayne | Invoker | Hunters Boots<br>Emeralds |
-| Legend | Miniboss | Elder Juggernaut | NPC-Player | Lifebane Armour<br>Gold Blocks<br>Emeralds<br>Gold Ingots<br>Coal<br>Bones
+| Legend | Miniboss | Elder Juggernaut | NPC-Player | Lifebane Armour<br>Gold Blocks<br>Emeralds<br>Gold Ingots<br>Coal<br>Bones |
+| Legend | Miniboss | Illager Archaeologist | Pillager | Fancy Rod<br>Walking Cane<br>Emeralds<br>Pottery Shards |
 | Legend | Boss | Apprentice Lich Deraphies | NPC-Player | Crystaline Armour<br>Crystaline Sword<br>Crystaline Elytra<br>Lapis Lazuli<br>Books |
 
 Drops unnaccounted for Legend island:
