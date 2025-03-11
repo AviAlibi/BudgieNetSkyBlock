@@ -1,0 +1,5 @@
+Void Helm (Netherite Helmet)
+Void Chestplate (Netherite Chestplate)
+Void Greaves (Netherite Leggings)
+Void Boots (Netherite Sword)
+Void Sword (Netherite Sword)

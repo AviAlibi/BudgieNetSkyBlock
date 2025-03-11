@@ -1,0 +1,12 @@
+Corrupt Boots (Netherite Boots)
+Corrupt Chestplate (Netherite Chestplate)
+Corrupt Helm (Netherite Helmet)
+Corrupt Leggings (Netherite Leggings)
+Forsaken Boots (Netherite Boots)
+Forsaken Chestplate (Netherite Chesplate)
+Forsaken Helmet (Netherite Helmet)
+Forsaken Leggings (Netherite Leggings)
+Old World Elytra
+Star Splitter (Netherite Sword)
+Supernova (Bow)
+Thunderlord (Trident)

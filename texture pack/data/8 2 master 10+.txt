@@ -1,0 +1,8 @@
+Ancient Boots (Iron Boots)
+Ancient Chestplate (Iron Chestplate)
+Ancient Helm (Iron Helmet)
+Ancient Platelegs (Iron Leggings)
+Ancient Sword (Iron Sword)
+Briny Sabre (Stone Sword)
+Evergust (Bow)
+Greybeards Heirloom (Turtle Helmet)

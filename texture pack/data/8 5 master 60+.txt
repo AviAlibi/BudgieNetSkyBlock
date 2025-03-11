@@ -1,0 +1,5 @@
+Spectral Helmet (Netherite Helmet)
+Spectral Chestplate (Netherite Chestplate)
+Spectral Leggings (Netherite Leggings)
+Spectral Boots (Netherite Boots)
+Spectral Sword (Netherite Sword)

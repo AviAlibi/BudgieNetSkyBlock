@@ -1,0 +1,13 @@
+Longsword (Iron Sword)
+Steel Boots (Iron Boots)
+Steel Chestplate (Iron Chestplate)
+Steel Helmet (Iron Helmet)
+Steel Leggings (Iron Leggings)
+Barons Bow
+Bruiser Boots (Leather Boots)
+Bruiser Helmet (Leather Helmet)
+Bruiser Padding (Leather Chestplate)
+Bruiser Pants (Leather Pants)
+Bruiser Shield
+Cooks Cleaver (Iron Axe)
+Old Foe Crossbow
